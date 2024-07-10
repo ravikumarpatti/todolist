@@ -17,7 +17,7 @@ body {
   min-width: 320px;
   min-height: 100vh;
   justify-content: center;
-  font-size: large;
+  font-size: small;
 }
 
 h1 {
